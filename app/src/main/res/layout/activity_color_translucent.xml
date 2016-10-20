@@ -11,7 +11,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:background="#31c27c"
-        android:layout_height="35dp">
+        android:layout_height="40dp">
         <TextView
             android:layout_centerInParent="true"
             android:text="QQ音乐"
